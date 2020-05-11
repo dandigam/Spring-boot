@@ -19,7 +19,7 @@ java -jar target/Spring-boot-rest-0.0.1-SNAPSHOT.jar
 
 The app will start running at <http://localhost:8080>.
 
-## Plushied Rest API
+## Published Rest API
 
     GET /welcome-msg
 
